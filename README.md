@@ -2,6 +2,6 @@
 
 
 
-- 🔭 I’m currently working on improving my proficiency in python
-- 🌱 I’m currently learning object oriented programming, and data visualization
+- 🔭 I’m currently working on improving my proficiency in Devlopment, to solve real world problems
+- 🌱 I’m currently learning API development and AI and data engineering
 - 💬 Ask me about videogames
