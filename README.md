@@ -2,125 +2,157 @@
 
 Backend Systems • AI Engineering • Distributed Systems
 
-I got into tech because it felt like the most direct way to make real impact.  
-But the more I built, the more I realized — impact doesn’t matter if systems break when it scales.
-
-Right now, I’m focused on building systems that **hold up under pressure** —  
-handling real-time data, dealing with failures, and understanding the trade-offs between speed, accuracy, and reliability.
+I care less about building systems that work, and more about building systems that **keep working under pressure**.
 
 ---
 
-## What I’m Exploring Right Now
+## 🧠 Focus
 
-- How **event-driven systems behave under load and backpressure**
-- How **AI systems fail**, not just how they perform
-- Trade-offs between **latency vs correctness** in real-world pipelines
-- Turning ML models into **actual usable systems**, not just notebooks
-
----
-
-## Research
-
-I’m currently an undergraduate researcher working on **Type 2 Diabetes Prediction**.
-
-The interesting part for me isn’t just accuracy — it’s:
-- what features actually matter (biomarkers, surrogate signals)
-- how models behave when moved closer to real deployment
-- and how we evaluate them beyond just standard metrics
+- Event-driven systems under load and backpressure  
+- AI systems beyond accuracy (reliability, reasoning, failure modes)  
+- Trade-offs between latency, correctness, and scale  
 
 ---
 
-## What I’ve Built (and why I built it)
+## ⚙️ Projects
+
+- **LogiScale** → ~78,000 requests/sec under high concurrency  
+- **RakshaSaathi** → ~700 events/sec real-time pipeline  
+- **SKN** → ~1.1s TTFT, multi-agent RAG system  
+
+→ [LogiScale](https://github.com/Fusion831/Distributed-Delivery-Routing-Engine))  
+→ [RakshaSaathi](https://github.com/Fusion831/RakshaSaathi)
+→ [SKN](https://github.com/arnav-1/GDG-ideathon)
+
+---
+
+## 📊 Key Numbers
+
+- ~6.3M msgs/sec (NATS ingestion benchmark)  
+- ~78k req/sec (routing system under load)  
+- ~700 events/sec (end-to-end pipeline)  
+- ~1.1s TTFT, 250+ tokens/sec (multi-agent system)  
+
+---
+
+## 🎯 What I’m Looking For
+
+- Backend / Systems internships  
+- AI + backend integration projects  
+- Systems that actually need to scale  
+
+If you're building something interesting, I’d genuinely love to be part of it.
+
+---
+
+<details>
+<summary>🔬 Research & Thinking</summary>
+
+### Research
+I’m currently working as an undergraduate researcher on **Type 2 Diabetes Prediction**.
+
+What interests me isn’t just model accuracy, but:
+- which features actually matter (biomarkers, surrogate signals)
+- how models behave closer to deployment
+- how we evaluate systems beyond standard metrics
+
+---
+
+### How I Think
+
+- Systems don’t fail at average load, they fail at the edges  
+- Bottlenecks matter more than raw performance  
+- Decoupling improves scalability but adds coordination cost  
+- AI systems are pipelines, not just models  
+
+</details>
+
+---
+
+<details>
+<summary>Projects (Deep Dive)</summary>
 
 ### LogiScale — Distributed Routing Engine  
-This started as me trying to get back into coding properly without relying too much on AI.
+Built this to properly understand routing systems without relying on abstractions.
 
-I wanted to understand routing systems from scratch — how they scale, where they break, and how to optimize them.
-
-→ Sustained **~78,000 requests/sec**  
-→ Explored latency, concurrency, and system bottlenecks  
+- Focus: pathfinding, spatial indexing, concurrency  
+- Explored: QuadTrees, A*, latency under load  
+- Result: sustained ~78k requests/sec  
 
 ---
 
 ### RakshaSaathi — Real-Time Healthcare Pipeline  
-This came from a very real problem — families being physically distant from elders and not being able to respond in emergencies.
+Built around a real problem — monitoring elders remotely and responding to emergencies, a concern many people have daily
 
-I worked on the backend for a system that:
-- processes real-time health data  
-- detects anomalies using ML  
-- triggers alerts across multiple levels  
-
-What interested me most here wasn’t just detection — it was:
-**how the system behaves when things slow down or fail**
-
-→ Handles **~700 events/sec end-to-end**  
-→ Explores backpressure, queueing, and system reliability  
+- Event-driven architecture using NATS + Redis  
+- ML-based anomaly detection (LSTM)  
+- Multi-level alert system (family, hospital, etc.)  
+- Explored: backpressure, queueing, failure scenarios  
 
 ---
 
 ### Smart Knowledge Navigator (SKN)  
-Built during a hackathon, but we pushed it beyond the basic requirement.
+Started as a hackathon project, evolved into a system for reliable knowledge retrieval.
 
-Instead of a simple RAG system, we focused on:
-- multi-agent reasoning  
-- self-correction loops  
-- making the system *feel* responsive while still being accurate  
-
-This is where I started thinking more about:
-**AI systems as pipelines, not just models**
+- Multi-agent architecture (5+ agents)  
+- Self-correction loops  
+- Focused on reliability, not just generation  
 
 ---
 
-### AlphaLab(link: https://ai.studio/apps/drive/1m_MydeDoWDlZ22xgRLHgTFk7DREAoK53?fullscreenApplet=true)
+### AlphaLab  
 Built during a Google DeepMind hackathon.
 
-The idea was simple:  
-There’s too much research being published, and not enough time to verify it properly.
+- Analyzes research papers for inconsistencies  
+- Supports comparison and replication workflows  
+- Focused on trust and verification in research systems  
 
-So I built a system that:
-- analyzes papers  
-- checks for inconsistencies  
-- helps compare and replicate results  
+→ Demo: https://www.youtube.com/watch?v=H6SyRXjIPKg  
 
-More than anything, this project made me think about:
-**how we trust outputs from complex systems**
+</details>
 
 ---
 
-## Current Experiments
+<details>
+<summary>⚡ Current Experiments</summary>
 
-- Measuring how **ML latency impacts system throughput**
-- Simulating **slow components to observe system degradation**
-- Testing how systems behave when **assumptions break**
+- Measuring how ML latency affects system throughput  
+- Simulating degraded systems to observe failure behavior  
+- Testing how systems respond when assumptions break  
 
----
-
-## Currently Reading
-
-- *So Good They Can’t Ignore You* — thinking about long-term skill building  
-- *Meta Learning* — trying to understand how to learn faster and better  
-- *Percy Jackson* — because not everything needs to be serious  
+</details>
 
 ---
 
-## Open to Collaborate
+<details>
+<summary>📚 Currently Reading</summary>
 
-I’m always open to working on:
+- *So Good They Can’t Ignore You*  
+- *Meta Learning*  
+- *Percy Jackson*  
+
+</details>
+
+---
+
+## 🤝 Collaborate
+
+I’m always open to:
 - systems-heavy projects  
 - AI + backend integrations  
-- anything that involves **real-world constraints and scale**
+- anything involving real-world constraints and scale  
 
-Or even just discussing ideas — that’s usually where the best stuff starts.
-
----
-
-## Tech
-
-Python • Go • FastAPI • NATS • Redis • LangGraph • Docker • PostgreSQL
+Or just interesting discussions.
 
 ---
 
-## Reach Me
+## 🛠 Tech
+
+Python • Go • FastAPI • NATS • Redis • LangGraph • Docker • PostgreSQL  
+
+---
+
+## 📫 Reach Me
 
 - LinkedIn: https://linkedin.com/in/daksh-b3a435323  
 - Email: dakshdaksh698@gmail.com
