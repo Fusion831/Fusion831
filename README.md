@@ -10,8 +10,9 @@ Right now, I’m focused on building systems that **hold up under pressure**: ha
 - **RakshaSaathi** → ~700 events/sec real-time pipeline  
 - **SKN** → ~1.1s TTFT, multi-agent RAG system  
 
-→ [LogiScale](https://github.com/Fusion831/Distributed-Delivery-Routing-Engine))  
+→ [LogiScale](https://github.com/Fusion831/Distributed-Delivery-Routing-Engine)  
 → [RakshaSaathi](https://github.com/Fusion831/RakshaSaathi)
+
 → [SKN](https://github.com/arnav-1/GDG-ideathon)
 
 ---
