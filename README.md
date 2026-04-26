@@ -10,7 +10,7 @@ handling real-time data, dealing with failures, and understanding the trade-offs
 
 ---
 
-## 🧠 What I’m Exploring Right Now
+## What I’m Exploring Right Now
 
 - How **event-driven systems behave under load and backpressure**
 - How **AI systems fail**, not just how they perform
@@ -19,7 +19,7 @@ handling real-time data, dealing with failures, and understanding the trade-offs
 
 ---
 
-## 🔬 Research
+## Research
 
 I’m currently an undergraduate researcher working on **Type 2 Diabetes Prediction**.
 
@@ -30,7 +30,7 @@ The interesting part for me isn’t just accuracy — it’s:
 
 ---
 
-## ⚙️ What I’ve Built (and why I built it)
+## What I’ve Built (and why I built it)
 
 ### LogiScale — Distributed Routing Engine  
 This started as me trying to get back into coding properly without relying too much on AI.
@@ -87,7 +87,7 @@ More than anything, this project made me think about:
 
 ---
 
-## ⚡ Current Experiments
+## Current Experiments
 
 - Measuring how **ML latency impacts system throughput**
 - Simulating **slow components to observe system degradation**
@@ -95,7 +95,7 @@ More than anything, this project made me think about:
 
 ---
 
-## 📚 Currently Reading
+## Currently Reading
 
 - *So Good They Can’t Ignore You* — thinking about long-term skill building  
 - *Meta Learning* — trying to understand how to learn faster and better  
@@ -103,7 +103,7 @@ More than anything, this project made me think about:
 
 ---
 
-## 🤝 Open to Collaborate
+## Open to Collaborate
 
 I’m always open to working on:
 - systems-heavy projects  
@@ -114,13 +114,13 @@ Or even just discussing ideas — that’s usually where the best stuff starts.
 
 ---
 
-## 🛠 Tech
+## Tech
 
 Python • Go • FastAPI • NATS • Redis • LangGraph • Docker • PostgreSQL
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
 - LinkedIn: https://linkedin.com/in/daksh-b3a435323  
 - Email: dakshdaksh698@gmail.com
