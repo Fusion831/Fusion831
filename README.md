@@ -1,6 +1,6 @@
 # Daksh
 
-I got into tech because it felt like the most direct way to make real impact. But the more I built, the more I realized — impact doesn’t matter if systems break when they scale. 
+I got into tech because it felt like the most direct way to make real impact. But the more I built, the more I realized, impact doesn’t matter if systems break when they scale. 
 
 Right now, I’m focused on building systems that **hold up under pressure**: handling real-time data, dealing with failures, and understanding the trade-offs between speed, accuracy, and reliability.
 
