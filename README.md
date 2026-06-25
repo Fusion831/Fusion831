@@ -15,6 +15,9 @@ Right now, I’m focused on building systems that **hold up under pressure**: ha
 
 → [SKN](https://github.com/arnav-1/GDG-ideathon)
 
+## Deployed Projects(AtomQuest, AlphaLab)
+https://atom-berg-hackathon.vercel.app/login
+https://ai.studio/apps/drive/1m_MydeDoWDlZ22xgRLHgTFk7DREAoK53?fullscreenApplet=true
 ---
 
 ##  Key Numbers
